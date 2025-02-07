@@ -1,0 +1,23 @@
+.DS_Store
+hris-frontend/node_modules
+hris-frontend/dist
+.venv/
+
+# local env files
+hris-frontend/.env.local
+hris-frontend/.env.*.local
+
+# Log files
+hris-frontend/npm-debug.log*
+hris-frontend/yarn-debug.log*
+hris-frontend/yarn-error.log*
+hris-frontend/pnpm-debug.log*
+
+# Editor directories and files
+.idea
+.vscode
+*.suo
+*.ntvs*
+*.njsproj
+*.sln
+*.sw?
